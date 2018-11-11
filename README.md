@@ -7,7 +7,7 @@ Learn how to make this app from the <a href="https://aveeksaha.gitlab.io/post/gi
 - Clone the repository
 - Run `npm install`
 - Scripts: 
-  * Run on localhost: `npm run server`
+  * Run on localhost: `npm run serve`
   * Build for production: `npm run build`   
   
   # Using the Website
