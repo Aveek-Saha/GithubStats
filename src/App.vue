@@ -7,6 +7,7 @@
         <i class="fab fa-github fa-inverse"></i>
       </a>
     </nav>
+    
     <div class="container">
       <Data/>
     </div>
@@ -16,7 +17,6 @@
 
 <script>
 import Data from './components/Data.vue'
-import axios from 'axios';
 
 export default {
   name: 'app',
