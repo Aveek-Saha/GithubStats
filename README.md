@@ -1,4 +1,4 @@
-# Github Download Stats
+# Download Stats for GitHub
 A website where you can check download counts for GitHub releases, along with information like release author and date of publishing.
 
 Learn how to make this app from the <a href="https://aveeksaha.gitlab.io/post/getting-started-with-vuejs-and-the-github-api/" title="tutorial">Tutorial</a>.
