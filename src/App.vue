@@ -2,7 +2,7 @@
   <div id="app">
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
     <nav class="navbar navbar-dark bg-dark">
-      <span class="navbar-brand mb-0 h2">GitHub Download Stats</span>
+      <span class="navbar-brand mb-0 h2">Download Stats for GitHub</span>
       <a href="https://aveek-saha.github.io/" class="navbar-brand mb-0 h1 text-right">
         <i class="fab fa-github fa-inverse"></i>
       </a>
