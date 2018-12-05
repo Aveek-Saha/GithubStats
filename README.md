@@ -11,7 +11,7 @@ Learn how to make this app from the <a href="https://aveeksaha.gitlab.io/post/ge
   * Build for production: `npm run build`   
   
   # Using the Website
-  Go to <a href="https://githubstats.aveek.io" title="GithubStats">GitHub Stats</a> and type in the name of the the organisation/ repo owner, and a repository with releases. 
+  Go to <a href="https://githubstats.aveek.io" title="GithubStats">Stats for GitHub</a> and type in the name of the the organisation/ repo owner, and a repository with releases. 
   
   Once you submit it, you'll see a list of all the releases, the total download count of all releases and the download count of each release. 
   
