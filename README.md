@@ -9,10 +9,10 @@ Learn how to make this app from the <a href="https://aveeksaha.gitlab.io/post/ge
 - Scripts: 
   * Run on localhost: `npm run serve`
   * Build for production: `npm run build`   
+
+# Using the Website
+Go to <a href="https://githubstats.aveek.io" title="GithubStats">Stats for GitHub</a> and type in the name of the the organisation/ repo owner, and a repository with releases. 
   
-  # Using the Website
-  Go to <a href="https://githubstats.aveek.io" title="GithubStats">Stats for GitHub</a> and type in the name of the the organisation/ repo owner, and a repository with releases. 
+Once you submit it, you'll see a list of all the releases, the total download count of all releases and the download count of each release. 
   
-  Once you submit it, you'll see a list of all the releases, the total download count of all releases and the download count of each release. 
-  
-  The latest versions are highlighted in `green`, and pre-releases are marked in `yellow`.
+The latest versions are highlighted in `green`, and pre-releases are marked in `yellow`.
