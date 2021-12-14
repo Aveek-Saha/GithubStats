@@ -227,4 +227,8 @@ export default {
   }
 }
 
+input.form-control {
+  font-size: 16px;
+}
+
 </style>
